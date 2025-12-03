@@ -1,2 +1,2 @@
-# TBG_WCS
-My repository during my training at Wild Code School
+# helloWorld
+Learning Git and GitHub at Wild Code School
